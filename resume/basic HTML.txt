@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>Kristen Peavey</title>
+</head>
+<body>
+Helping companies expand their reach and take their social media to the next level.
+
+Kristen is a creative and charismatic marketing professional that specializes in interpersonal communication, advertising and media relations.
+She has superb communication skills both verbal and written, as well as a strong ability to successfully reach and engage any type of audience. 
+An otimistic and natural leader with incredible work ethic who is passionate in any work environment.
+</body>
+<h1><strong>Skills</strong></h1>
+<h2>Social Media Marketing</h2>
+<h2>Product Promotions</h2>
+<h2>Customer Service</h2>
+<h2>Marketing</h2>
+<h2>Organizational Skills</h2>
+<h2>Office administration</h2>
+<h2>Creative Web Design</h2>
+<h2>Content Creation</h2>
+<h2>Web Development</h2>
+<h2>Email and phone</h2>
+<h2>User Experience</h2>
+
+<h1><strong>Software/Hardware</strong></h1>
+<h2>Adobe Photoshop</h2>
+<h2>Adobe Illustrator</h2>
+<h2>Miocrosoft Word</h2>
+<h2>Adobe Lightroom</h2>
+<h2>iMovie</h2>
+
+<h1><strong>Work Samples</strong></h1>
+<img>
+
+
+
+<p>You can reach Kristen at:</p>
+
+<ul>
+<li><a>
+href="https://www.linkedin.com/in/kristenpeavey19/">Linkedin</a></li>
+<li><a>
+href="mailto:kpeavey19@gmail.com">Email
+</a></li>
+<li><a>
+href="tel:+4074460319">Phone</a><li>
+</ul>
+
+
+
+</html>
